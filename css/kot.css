@@ -182,7 +182,11 @@ body {margin:0;height:2000px;}
   background: #25D366;
   color: white;
 }
-
+.shopee
+{
+  background: #e0e0e0;
+  color: rgb(250, 232, 67);
+}
 
 
 .about .row{
